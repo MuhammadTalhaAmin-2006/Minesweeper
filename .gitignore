@@ -421,9 +421,12 @@ FodyWeavers.xsd
 # Built Visual Studio Code Extensions
 *.vsix
 
-# Windows Installer files from build outputs
+# Windows Installer files from build outputsD
 *.cab
 *.msi
 *.msix
 *.msm
 *.msp
+
+# Runtime save file
+game.dat
