@@ -2,6 +2,29 @@
 
 A classic Minesweeper game built in C++ for the Windows console, featuring mouse controls, sound effects, and save/load functionality.
 
+## Screenshots
+
+### Main Menu
+![Main Menu](images/main-menu.png)
+
+### Easy Gameplay
+![Easy Gameplay](images/easy-gameplay.png)
+
+### Medium Gameplay
+![Medium Gameplay](images/medium-gameplay.png)
+
+### Hard Gameplay
+![Hard Gameplay](images/hard-gameplay.png)
+
+### Save Game
+![Save Game](images/save-game.png)
+
+### Victory
+![Victory](images/win-screen.png)
+
+### Game Over
+![Game Over](images/game-over.png)
+
 ## Features
 
 - Mouse-based gameplay (left click to reveal, right click to flag/unflag)
